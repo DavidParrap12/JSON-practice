@@ -1,0 +1,32 @@
+{
+  "trivia": [
+    {
+      "pregunta": "¿Cuál es el océano más grande del mundo?",
+      "respuestas": ["Océano Pacífico"]
+    },
+    {
+      "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+      "respuestas": ["1939"]
+    },
+    {
+      "pregunta": "¿Cuál es la montaña más alta del mundo?",
+      "respuestas": ["Monte Everest"]
+    },
+    {
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "respuestas": ["Leonardo da Vinci"]
+    },
+    {
+      "pregunta": "¿Cuántos continentes hay en el mundo?",
+      "respuestas": ["7"]
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Japón?",
+      "respuestas": ["Tokio"]
+    },
+    {
+      "pregunta": "¿En qué año llegó el hombre a la Luna por primera vez?",
+      "respuestas": ["1969"]
+    }
+  ]
+}
